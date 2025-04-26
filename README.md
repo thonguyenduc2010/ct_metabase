@@ -18,5 +18,6 @@ This repository provides a quick and easy way to run [Metabase](https://www.meta
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/metabase-docker.git
-cd metabase-docker
+git clone https://github.com/thonguyenduc2010/ct_metabase.git
+cd ct_metabase
+docker-compose up
